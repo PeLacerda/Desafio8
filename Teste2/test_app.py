@@ -1,4 +1,4 @@
-from app import validar_entrada
+from Teste2.app import validar_entrada
 
 
 def test_entrada_valida():
